@@ -4,7 +4,7 @@
 
 
 ### :man_technologist::Про мене: 
-Я python-програміст <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Почав кар'єру програміста в 2020 році почавши вивчати мову програмування python, розпочав з проходження курсів goit де і здобув фундамент знань. Зараз я розвиваюсь в напрямках веб-розробки(Django, Flask, React), AI, TelegramAPI(aiogram) та ін.
+Я python-програміст <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Почав кар'єру програміста в 2020 році почавши вивчати мову програмування python, розпочав з проходження курсів GOIT де і здобув фундамент знань. Зараз я розвиваюсь в напрямках веб-розробки(Django, Flask, React), AI, TelegramAPI(aiogram) та ін.
 
 - :telescope: Брав участь в вебінарах та курсах goIT.
 
